@@ -1,0 +1,13 @@
+.likeContainer {
+  display: flex;
+  justify-content: space-around;
+  width: 150px;
+  border-bottom: 3px dotted lightblue;
+}
+.likeContainer button {
+  padding: 25px;
+  margin: 10px;
+  font-size: 25px;
+  border-radius: 4em;
+  background-color: slategrey;
+}
